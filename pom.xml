@@ -5,6 +5,7 @@
 	<groupId>org.praveen.springBoot</groupId>
 	<artifactId>starter-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>First Spring Boot Application</name>
 
 	<parent>
